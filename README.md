@@ -1,5 +1,7 @@
 # Embodied-cognition
 
+用课程所学结合具身认知升级改造景观无动力乡土乐园设计产品。
+
 ## 01 what is embodiment?
 具身认知有哪些内容？
 有哪些反常识点？
